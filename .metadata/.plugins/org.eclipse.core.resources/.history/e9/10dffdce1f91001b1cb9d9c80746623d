@@ -1,0 +1,8 @@
+package com.learning.simplecore;
+
+public class Product {
+	Laptop laptop;
+	public void code() {
+		laptop.compile();		
+	}
+}

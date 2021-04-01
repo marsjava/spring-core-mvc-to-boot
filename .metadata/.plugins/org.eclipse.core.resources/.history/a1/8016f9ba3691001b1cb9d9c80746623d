@@ -1,0 +1,7 @@
+package com.learning.simplecore;
+
+public class Laptop {
+	public void compile() {
+		System.out.println("My code is compiled.");
+	}
+}

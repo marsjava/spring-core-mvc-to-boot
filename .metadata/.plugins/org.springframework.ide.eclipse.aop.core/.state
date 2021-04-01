@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="simpleboot"/>
+<aop-project name="springmvcboot"/>
+<aop-project name="simplecore"/>
+</aop-reference-model>

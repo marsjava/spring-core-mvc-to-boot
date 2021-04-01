@@ -1,0 +1,10 @@
+package com.learning;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class Product {
+	public void code() {
+		System.out.println("I'm coding.");
+	}
+}

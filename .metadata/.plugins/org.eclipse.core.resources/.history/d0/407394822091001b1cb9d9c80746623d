@@ -1,0 +1,27 @@
+package com.learning.simplecore;
+
+public class Product {
+	
+	private int price;		// primitive field property
+	private Laptop laptop;	// object field property
+	
+	public int getPrice() {
+		return price;
+	}
+
+	public void setPrice1(int price) {
+		this.price = price;
+	}
+
+	public Laptop getLaptop() {
+		return laptop;
+	}
+
+	public void setLaptop(Laptop laptop) {
+		this.laptop = laptop;
+	}
+
+	public void code() {
+		laptop.compile();		
+	}
+}

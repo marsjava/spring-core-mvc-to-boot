@@ -1,0 +1,11 @@
+package com.learning.simplecore;
+
+public class Desktop implements Computer {
+
+	@Override
+	public void compile() {
+		// TODO Auto-generated method stub
+
+	}
+
+}
